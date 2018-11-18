@@ -1352,7 +1352,7 @@ U 1 1 5BF2D6C7
 P 3300 3300
 F 0 "AE1" V 3517 3245 50  0000 C CNN
 F 1 "Antenna" V 3426 3245 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm" H 3300 3300 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_1.0x1.0mm" H 3300 3300 50  0001 C CNN
 F 3 "~" H 3300 3300 50  0001 C CNN
 	1    3300 3300
 	0    -1   -1   0   
